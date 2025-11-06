@@ -23,7 +23,7 @@ með tilvísun í gamla og nýja
 
 
 **Hver skrifaði:**  
-Fullt nafn 
+Arnþór Atli Atlason
 
 **Hver skrifaði Pull Request:**  
 Fullt nafn 
