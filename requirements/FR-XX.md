@@ -23,7 +23,7 @@ með tilvísun í gamla og nýja
 
 
 **Hver skrifaði:**  
-Fullt nafn 
+Fullt 
 
 **Hver skrifaði Pull Request:**  
 Fullt nafn 
