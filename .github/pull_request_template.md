@@ -2,16 +2,16 @@
 _Endurbætt krafa fyrir FR-XX._
 
 ### Hlekkir og rekjanleiki
-- Upprunaleg krafa (Verkefni 1): [link hér]
+- Upprunaleg krafa [Verkefni 1]: (Link hér)
 - Skráin: `requirements/FR-XX.md`
 
 ## Gátreitur – Gæði kröfu (rýnir merkir eftir yfirferð)
-- [ ] Heildstæð
-- [ ] Gerleg
+- [ ] Ófullkomleiki
 - [ ] Ótvíræð
-- [ ] Samkvæmt sniðmáti - Notaðu skal
-- [ ] Ein hugmynd í senn, atomic
-- [ ] Engin óljós orð
+- [ ] Óljóst
+- [ ] Sniðmát A&S frá sjónarhorni kerfisins ("Kerfið skal")
+- [ ] Bestu venjur WB (nota "skal")
+- [ ] Of gróf krafa
 - [ ] Lýstu hegðun kerfisins, ekki hönnun
 - [ ] Mælanleg og prófanleg
 - [ ] Skrifaðu í virku formi
