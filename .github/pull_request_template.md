@@ -2,7 +2,7 @@
 _Endurbætt krafa fyrir FR-XX._
 
 ### Hlekkir og rekjanleiki
-- Upprunaleg krafa [Verkefni 1]: (Link hér)
+- Upprunaleg krafa [Verkefni 1](Link hér)
 - Skráin: `requirements/FR-XX.md`
 
 ## Gátreitur – Gæði kröfu (rýnir merkir eftir yfirferð)
